@@ -25,8 +25,6 @@ Developer Push
       |
 GitHub Actions
       |
-OIDC Authentication
-      |
 Terraform
       |
 AWS Infrastructure
@@ -41,13 +39,11 @@ Running Application
 - Provision AWS infrastructure using Terraform
 - Containerize applications with Docker
 - Automate deployments with GitHub Actions
-- Implement secure authentication using OIDC
 - Demonstrate Linux administration and troubleshooting
 - Follow Infrastructure as Code best practices
 
 ## Repository Structure
 
-```text
 .
 ├── docs/
 ├── terraform/
@@ -55,22 +51,3 @@ Running Application
 │   └── workflows/
 └── README.md
 ```
-
-## Current Status
-
-🚧 Project in development
-
-### Planned Features
-
-- [ ] AWS Infrastructure Deployment
-- [ ] Dockerized Application
-- [ ] GitHub Actions CI Pipeline
-- [ ] GitHub Actions CD Pipeline
-- [ ] OIDC Authentication
-- [ ] Amazon ECR Integration
-- [ ] EC2 Deployment
-- [ ] Monitoring and Logging
-
-## Author
-
-Built as a DevOps portfolio project to demonstrate practical cloud and automation skills.
